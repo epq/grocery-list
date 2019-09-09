@@ -1,4 +1,4 @@
 # grocery-list
-DOM manipulation practie
+DOM manipulation practice
 
 These sample files are from: [JavaScript & JQuery](http://javascriptbook.com/) by Jon Duckett.
